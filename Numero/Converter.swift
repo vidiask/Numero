@@ -31,4 +31,7 @@ class Converter {
     return "I"
   }
   
+    func convertToString(_ number: Int) -> String {
+        return "\(number)"
+    }
 }
